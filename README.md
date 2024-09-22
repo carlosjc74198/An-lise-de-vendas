@@ -124,6 +124,6 @@ Incorporar dados históricos de acidentes para identificar rotas mais seguras.
 Explorar técnicas de machine learning mais avançadas para melhorar a precisão das previsões.
 
 #
-Para uma visão mais detalhada dos gráficos, sugiro colar o link abaixo no URL do navegador, pois apresento outros gráficos construidos. 
 
-    http://192.168.0.28:8502
+
+
