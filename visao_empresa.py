@@ -88,7 +88,7 @@ image = Image.open(image_path)
 st.sidebar.image(image, width=200)
 
 
-st.sidebar.markdown('# Cury Company')
+st.sidebar.markdown('# Curry Company')
 st.sidebar.markdown('## (Ifood Índia)')
 st.sidebar.markdown('## Entrega mais rápida na cidade')
 st.sidebar.markdown("""---""")
